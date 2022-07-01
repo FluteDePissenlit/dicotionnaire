@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Amatic+SC&family=Bebas+Neue&family=Bungee+Shade&family=Codystar:wght@300&family=Coiny&family=Dancing+Script&family=Fascinate&family=Gloria+Hallelujah&family=Homemade+Apple&family=Joan&family=Kdam+Thmor+Pro&family=Kosugi+Maru&family=Lily+Script+One&family=Lobster&family=Londrina+Outline&family=Monoton&family=Mystery+Quest&family=Offside&family=Permanent+Marker&family=Potta+One&family=Press+Start+2P&family=Sonsie+One&family=Source+Code+Pro:wght@200&family=Varela+Round&family=ZCOOL+KuaiLe&display=swap');
+
+
+/* BOX */
+.sec_articles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.space {
+    height: 10px;
+}
+.div_article {
+    width: 100%;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 3px;
+    background-color: rgb(30, 30, 30);
+
+    margin: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+
+    box-shadow: 0px 0px 5px rgb(50, 50, 50);
+}
+
+
+
+/* TEXTE */
+.h_a {
+    font-size: 30px;
+    font-family: "Potta One";
+    color: rgb(180, 255, 255);
+}
+.sh_a {
+    font-size: 13px;
+    font-family: "Joan";
+    margin-left: 15px;
+}
+
+.des_a {
+    padding-top: 10px;
+    font-size: 17px;
+}
+
+.link_a {
+    padding-left: 5px;
+    padding-top: 3px;
+    font-size: 12px;
+    color: rgb(180, 200, 255);
+    font-style: italic;
+}

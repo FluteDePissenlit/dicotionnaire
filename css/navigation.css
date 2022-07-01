@@ -1,0 +1,64 @@
+/* BUTTONS */
+.button_n {
+    height: 30px;
+    width: 30px;
+    border-radius: 3px;
+    background-color: rgb(30, 30, 30);
+
+    box-shadow: 0px 0px 5px rgb(50, 50, 50);
+}
+.button_n:hover {
+    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+}
+
+.list_n {
+    position: fixed;
+    top: 20px;
+    left: 7px;
+}
+.articles_n {
+    position: fixed;
+    top: 65px;
+    left: 7px;
+}
+
+
+
+/* DECORATION */
+.ligne {
+    height: 3px;
+    width: 22px;
+    border-radius: 3px;
+    background-color: white;
+
+    position: fixed;
+}
+.ligne1 {
+    top: 28px;
+    left: 11px;
+}
+.ligne2 {
+    top: 34px;
+    left: 11px;
+}
+.ligne3 {
+    top: 40px;
+    left: 11px;
+}
+
+.pave {
+    height: 7px;
+    width: 22px;
+    border-radius: 3px;
+    background-color: white;
+
+    position: fixed;
+}
+.pave1 {
+    top: 71px;
+    left: 11px;
+}
+.pave2 {
+    top: 82px;
+    left: 11px;
+}
